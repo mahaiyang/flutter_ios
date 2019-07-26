@@ -1,0 +1,26 @@
+{
+  "name": "FlutterSDK",
+  "version": "0.1.0",
+  "summary": "A short description of FlutterSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mahaiyang/flutter_ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1043225268@qq.com": "1043225268@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/mahaiyang/flutter_ios.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FlutterSDK/Classes/**/*",
+  "vendored_frameworks": [
+    "FlutterSDK/Frameworks/App.framework",
+    "FlutterSDK/Frameworks/Flutter.framework"
+  ]
+}
