@@ -502,6 +502,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 3LZDZH2S9D;
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FlutterSDK/FlutterSDK-Prefix.pch";
 				INFOPLIST_FILE = "FlutterSDK/FlutterSDK-Info.plist";
@@ -519,6 +520,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 3LZDZH2S9D;
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FlutterSDK/FlutterSDK-Prefix.pch";
 				INFOPLIST_FILE = "FlutterSDK/FlutterSDK-Info.plist";
