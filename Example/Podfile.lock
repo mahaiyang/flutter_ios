@@ -1,5 +1,5 @@
 PODS:
-  - FlutterSDK (0.1.0)
+  - FlutterSDK (0.1.1)
 
 DEPENDENCIES:
   - FlutterSDK (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FlutterSDK: 7feebfba6abf7f4d4ec90d75deafb05c0b9c636e
+  FlutterSDK: 2d3e4fed7cdd7b9ba3761f437d426fa88fbdd897
 
 PODFILE CHECKSUM: 70ab232b7ab0527b98b6a473b16ba366d1b9a0f7
 
